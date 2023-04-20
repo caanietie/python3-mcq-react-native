@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "my_app",
-    "slug": "my_app",
+    "name": "Python3MCQ",
+    "slug": "Python3MCQ",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "sdkVersion": "45.0.0"
   },
-  "name": "my_app"
+  "name": "Python3MCQ"
 }

@@ -1,0 +1,14 @@
+export const constants = {
+    TIMER_MINUTE: 1,
+    TIMER_SECOND: 0,
+    FLASH_MINUTE: 1,
+    FLASH_SECOND: 60,
+
+    HOME_SCREEN: 1,
+    TEST_SCREEN: 2,
+    SCORE_SCREEN: 3,
+    ABOUT_SCREEN: 4,
+    TIMER_SCREEN: 5,
+    REVIEW_SCREEN: 6,
+    TIMELESS_SCREEN: 7,
+};
